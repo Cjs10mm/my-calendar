@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//QuickWork//Calendar Export//EN
+METHOD:PUBLISH
+X-WR-CALNAME:Direct Invites (cjsampl)
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VEVENT
+UID:db6c5aaf1aeed27c408103d7@quickwork.amazon.com
+DTSTART:20260605T170000Z
+DTEND:20260605T180000Z
+SUMMARY:Internal Transfer\, ALE L4 DCPM\, Offer discussion
+LOCATION:https://amazon.zoom.us/j/94448852070?pwd=wII91yFDpDDqtEnDMcZlKRETHDq15I.1&from=addon
+ORGANIZER;CN=Tiu\, Chris:mailto:tiuchris@amazon.com
+DTSTAMP:20260604T212821Z
+END:VEVENT
+END:VCALENDAR

@@ -1,16 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Quickwork//Calendar Export//EN
+PRODID:-//Quickwork//Direct Invite Calendar//EN
 METHOD:PUBLISH
 X-WR-CALNAME:Direct Invites (cjsampl)
 X-WR-TIMEZONE:America/Chicago
-BEGIN:VEVENT
-UID:db6c5aaf1aeed27c@quickwork.amazon.com
-DTSTAMP:20260604T213457Z
-DTSTART:20260605T170000Z
-DTEND:20260605T180000Z
-SUMMARY:Internal Transfer, ALE L4 DCPM, Offer discussion
-ORGANIZER;CN=Tiu, Chris:mailto:tiuchris@amazon.com
-LOCATION:See Outlook for join link
-END:VEVENT
 END:VCALENDAR

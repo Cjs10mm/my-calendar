@@ -1,7 +1,15 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Quickwork//Calendar Export//EN
+PRODID:-//QuickWork//Calendar Export//EN
 METHOD:PUBLISH
 X-WR-CALNAME:Direct Invites (cjsampl)
 X-WR-TIMEZONE:America/Chicago
+BEGIN:VEVENT
+UID:f6b9521c0d4b7e0b@quickwork.amazon.com
+DTSTART:20260609T233000Z
+DTEND:20260610T003000Z
+SUMMARY:Liquid Cooling Lessons Learned Presentation 
+ORGANIZER;CN=Taylor\, Hailey:mailto:haytay@amazon.com
+DTSTAMP:20260605T223045Z
+END:VEVENT
 END:VCALENDAR

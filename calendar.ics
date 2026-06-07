@@ -8,15 +8,17 @@ BEGIN:VEVENT
 UID:f6b9521c0d4b7e0b0338834b@quickwork.amazon.com
 DTSTART:20260609T233000Z
 DTEND:20260610T003000Z
-SUMMARY:Liquid Cooling Lessons Learned Presentation
-ORGANIZER;CN=Taylor, Hailey:mailto:haytay@amazon.com
+SUMMARY:Liquid Cooling Lessons Learned Presentation 
+ORGANIZER;CN=Taylor\, Hailey:mailto:haytay@amazon.com
+DTSTAMP:20260607T212910Z
 END:VEVENT
 BEGIN:VEVENT
 UID:d5530920998b8932eecc8702@quickwork.amazon.com
 DTSTART:20260616T170000Z
 DTEND:20260616T180000Z
 SUMMARY:Q2 EHS event
-ORGANIZER;CN=Rasmussen, Keith:mailto:tkeithra@amazon.com
+ORGANIZER;CN=Rasmussen\, Keith:mailto:tkeithra@amazon.com
 LOCATION:Virtual Only
+DTSTAMP:20260607T212910Z
 END:VEVENT
 END:VCALENDAR

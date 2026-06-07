@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Quickwork//Direct Invite Calendar//EN
+PRODID:-//QuickWork//Direct Invite Calendar//EN
 METHOD:PUBLISH
 X-WR-CALNAME:Direct Invites (cjsampl)
 X-WR-TIMEZONE:America/Chicago
@@ -10,6 +10,9 @@ DTSTART:20260609T233000Z
 DTEND:20260610T003000Z
 SUMMARY:Liquid Cooling Lessons Learned Presentation 
 ORGANIZER;CN=Taylor, Hailey:mailto:haytay@amazon.com
+DESCRIPTION:See Outlook for join link
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:d5530920998b8932@quickwork.amazon.com
@@ -18,5 +21,8 @@ DTEND:20260616T180000Z
 SUMMARY:Q2 EHS event
 ORGANIZER;CN=Rasmussen, Keith:mailto:tkeithra@amazon.com
 LOCATION:Virtual Only
+DESCRIPTION:See Outlook for join link
+STATUS:CONFIRMED
+TRANSP:OPAQUE
 END:VEVENT
 END:VCALENDAR

@@ -8,7 +8,7 @@ BEGIN:VEVENT
 UID:f6b9521c0d4b7e0b0338834b@quickwork.amazon.com
 DTSTART:20260609T233000Z
 DTEND:20260610T003000Z
-SUMMARY:Liquid Cooling Lessons Learned Presentation
+SUMMARY:Liquid Cooling Lessons Learned Presentation 
 ORGANIZER;CN=Taylor, Hailey:mailto:haytay@amazon.com
 END:VEVENT
 BEGIN:VEVENT

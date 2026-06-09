@@ -5,7 +5,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Direct Invites (cjsampl)
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-UID:f6b9521c0d4b7e0b0338834b@quickwork.amazon.com
+UID:f6b9521c0d4b7e0b@quickwork.amazon.com
 DTSTART:20260609T233000Z
 DTEND:20260610T003000Z
 SUMMARY:Liquid Cooling Lessons Learned Presentation
@@ -13,7 +13,7 @@ ORGANIZER;CN=Taylor, Hailey:mailto:haytay@amazon.com
 DESCRIPTION:See Outlook for join link
 END:VEVENT
 BEGIN:VEVENT
-UID:d5530920998b8932eecc8702@quickwork.amazon.com
+UID:d5530920998b8932@quickwork.amazon.com
 DTSTART:20260616T170000Z
 DTEND:20260616T180000Z
 SUMMARY:Q2 EHS event

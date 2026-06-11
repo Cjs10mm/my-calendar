@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//QuickWork//Direct Invite Calendar//EN
+PRODID:-//QuickWork//Calendar Export//EN
 METHOD:PUBLISH
 X-WR-CALNAME:Direct Invites (cjsampl)
 X-WR-TIMEZONE:America/Chicago
@@ -11,6 +11,5 @@ DTEND:20260616T180000Z
 SUMMARY:Q2 EHS event
 ORGANIZER;CN=Rasmussen\, Keith:mailto:tkeithra@amazon.com
 LOCATION:Virtual Only
-DESCRIPTION:See Outlook for join link
 END:VEVENT
 END:VCALENDAR

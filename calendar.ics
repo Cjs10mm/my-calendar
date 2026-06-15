@@ -5,21 +5,19 @@ METHOD:PUBLISH
 X-WR-CALNAME:Direct Invites (cjsampl)
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-UID:d5530920998b8932@quickwork.amazon.com
+UID:d5530920998b8932eecc8702@quickwork.amazon.com
 DTSTART:20260616T170000Z
 DTEND:20260616T180000Z
 SUMMARY:Q2 EHS event
 ORGANIZER;CN=Rasmussen\, Keith:mailto:tkeithra@amazon.com
 LOCATION:Virtual Only
-DTSTAMP:20260615T121010Z
 END:VEVENT
 BEGIN:VEVENT
-UID:75a8fb46ad0c1e89@quickwork.amazon.com
+UID:75a8fb46ad0c1e89358541e2@quickwork.amazon.com
 DTSTART:20260619T180000Z
 DTEND:20260619T183000Z
 SUMMARY:Pre CPI-transition check-in
 ORGANIZER;CN=Tiu\, Chris:mailto:tiuchris@amazon.com
 LOCATION:See Outlook for join link
-DTSTAMP:20260615T121010Z
 END:VEVENT
 END:VCALENDAR

@@ -1,11 +1,11 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//QuickWork//Direct Invites//EN
+PRODID:-//QuickWork//Calendar Export//EN
 METHOD:PUBLISH
 X-WR-CALNAME:Direct Invites (cjsampl)
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-UID:bacf025c842418e605953326642af1b5@quickwork.amazon.com
+UID:d5530920998b8932eecc8702@quickwork.amazon.com
 DTSTART:20260616T170000Z
 DTEND:20260616T180000Z
 SUMMARY:Q2 EHS event Updated for zoom
@@ -13,15 +13,7 @@ ORGANIZER;CN=Rasmussen\, Keith:mailto:tkeithra@amazon.com
 LOCATION:See Outlook for join link
 END:VEVENT
 BEGIN:VEVENT
-UID:d94893b30af427084db28fc8cdd49a5a@quickwork.amazon.com
-DTSTART:20260616T230000Z
-DTEND:20260617T000000Z
-SUMMARY:Q2 EHS evernt updated for Zoom
-ORGANIZER;CN=Rasmussen\, Keith:mailto:tkeithra@amazon.com
-LOCATION:See Outlook for join link
-END:VEVENT
-BEGIN:VEVENT
-UID:7578bfd5024e0acf3f58561fb6012920@quickwork.amazon.com
+UID:d32a6c56f1151b25ac9527f8@quickwork.amazon.com
 DTSTART:20260618T170000Z
 DTEND:20260618T180000Z
 SUMMARY:Q2 EHS event updated for Zoom
@@ -29,15 +21,7 @@ ORGANIZER;CN=Rasmussen\, Keith:mailto:tkeithra@amazon.com
 LOCATION:See Outlook for join link
 END:VEVENT
 BEGIN:VEVENT
-UID:7da2f893b7ca1c7e2a5e3d328858118c@quickwork.amazon.com
-DTSTART:20260618T230000Z
-DTEND:20260619T000000Z
-SUMMARY:Q2 EHS event updated for Zoom
-ORGANIZER;CN=Rasmussen\, Keith:mailto:tkeithra@amazon.com
-LOCATION:See Outlook for join link
-END:VEVENT
-BEGIN:VEVENT
-UID:4123d1308b81915e82f1d510aa123c70@quickwork.amazon.com
+UID:75a8fb46ad0c1e89358541e2@quickwork.amazon.com
 DTSTART:20260619T180000Z
 DTEND:20260619T183000Z
 SUMMARY:Pre CPI-transition check-in

@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//QuickWork//Direct Invite Calendar//EN
+PRODID:-//QuickWork//Calendar Export//EN
 METHOD:PUBLISH
 X-WR-CALNAME:Direct Invites (cjsampl)
 X-WR-TIMEZONE:America/Chicago
@@ -11,7 +11,6 @@ DTEND:20260618T180000Z
 SUMMARY:Q2 EHS event updated for Zoom
 ORGANIZER;CN=Rasmussen\, Keith:mailto:tkeithra@amazon.com
 LOCATION:See Outlook for join link
-DESCRIPTION:See Outlook for join link
 END:VEVENT
 BEGIN:VEVENT
 UID:04039f84fce3b198c98e4a77@quickwork.amazon.com
@@ -20,7 +19,6 @@ DTEND:20260625T180000Z
 SUMMARY:Virtual loop interview for Stephen Prichard\, Engineering Operations Technician\, ADC InfraOps DCEO
 ORGANIZER;CN=Amazon Hire:mailto:hire-meeting@invitation.people-tech.amazon.dev
 LOCATION:See Outlook for join link
-DESCRIPTION:See Outlook for join link
 END:VEVENT
 BEGIN:VEVENT
 UID:75a8fb46ad0c1e89358541e2@quickwork.amazon.com
@@ -29,6 +27,29 @@ DTEND:20260619T183000Z
 SUMMARY:Pre CPI-transition check-in
 ORGANIZER;CN=Tiu\, Chris:mailto:tiuchris@amazon.com
 LOCATION:See Outlook for join link
-DESCRIPTION:See Outlook for join link
+END:VEVENT
+BEGIN:VEVENT
+UID:f72f54903b45a3e7799c6e75@quickwork.amazon.com
+DTSTART:20260701T163000Z
+DTEND:20260701T170000Z
+SUMMARY:ALE - CPI - Project Sync
+ORGANIZER;CN=Lazar\, Pete:mailto:petelaz@amazon.com
+LOCATION:Loop
+END:VEVENT
+BEGIN:VEVENT
+UID:f35f4831afd3fae1980bf210@quickwork.amazon.com
+DTSTART:20260715T163000Z
+DTEND:20260715T170000Z
+SUMMARY:ALE - CPI - Project Sync
+ORGANIZER;CN=Lazar\, Pete:mailto:petelaz@amazon.com
+LOCATION:Loop
+END:VEVENT
+BEGIN:VEVENT
+UID:a7cb81aea84c237c27d8eeb5@quickwork.amazon.com
+DTSTART:20260703T180000Z
+DTEND:20260703T183000Z
+SUMMARY:Pre CPI-transition check-in
+ORGANIZER;CN=Tiu\, Chris:mailto:tiuchris@amazon.com
+LOCATION:See Outlook for join link
 END:VEVENT
 END:VCALENDAR

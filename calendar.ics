@@ -6,6 +6,7 @@ X-WR-CALNAME:Direct Invites (cjsampl)
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
 UID:d32a6c56f1151b25ac9527f8@quickwork.amazon.com
+DTSTAMP:20260617T111016Z
 DTSTART:20260618T170000Z
 DTEND:20260618T180000Z
 SUMMARY:Q2 EHS event updated for Zoom
@@ -13,7 +14,17 @@ ORGANIZER;CN=Rasmussen\, Keith:mailto:tkeithra@amazon.com
 LOCATION:See Outlook for join link
 END:VEVENT
 BEGIN:VEVENT
+UID:11f7ac88ab6ecba589505c9b@quickwork.amazon.com
+DTSTAMP:20260617T111016Z
+DTSTART:20260618T230000Z
+DTEND:20260619T000000Z
+SUMMARY:Q2 EHS event updated for Zoom
+ORGANIZER;CN=Rasmussen\, Keith:mailto:tkeithra@amazon.com
+LOCATION:See Outlook for join link
+END:VEVENT
+BEGIN:VEVENT
 UID:04039f84fce3b198c98e4a77@quickwork.amazon.com
+DTSTAMP:20260617T111016Z
 DTSTART:20260625T170000Z
 DTEND:20260625T180000Z
 SUMMARY:Virtual loop interview for Stephen Prichard\, Engineering Operations Technician\, ADC InfraOps DCEO
@@ -22,6 +33,7 @@ LOCATION:See Outlook for join link
 END:VEVENT
 BEGIN:VEVENT
 UID:8f2b3e694a35709951fc9ee3@quickwork.amazon.com
+DTSTAMP:20260617T111016Z
 DTSTART:20260629T170000Z
 DTEND:20260629T173000Z
 SUMMARY:Debrief for Stephen Prichard\, Engineering Operations Technician\, ADC InfraOps DCEO
@@ -30,6 +42,7 @@ LOCATION:See Outlook for join link
 END:VEVENT
 BEGIN:VEVENT
 UID:75a8fb46ad0c1e89358541e2@quickwork.amazon.com
+DTSTAMP:20260617T111016Z
 DTSTART:20260619T180000Z
 DTEND:20260619T183000Z
 SUMMARY:Pre CPI-transition check-in

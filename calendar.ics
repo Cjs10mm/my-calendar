@@ -11,7 +11,7 @@ DTEND:20260625T180000Z
 SUMMARY:Virtual loop interview for Stephen Prichard\, Engineering Operations Technician\, ADC InfraOps DCEO
 ORGANIZER;CN=Amazon Hire:mailto:hire-meeting@invitation.people-tech.amazon.dev
 LOCATION:See Outlook for join link
-DTSTAMP:20260619T115412Z
+DTSTAMP:20260619T125352Z
 END:VEVENT
 BEGIN:VEVENT
 UID:50689c8dcbc98094@quickwork.amazon.com
@@ -20,7 +20,7 @@ DTEND:20260629T173000Z
 SUMMARY:Debrief for Stephen Prichard\, Engineering Operations Technician\, ADC InfraOps DCEO
 ORGANIZER;CN=Amazon Hire:mailto:hire-meeting@invitation.people-tech.amazon.dev
 LOCATION:See Outlook for join link
-DTSTAMP:20260619T115412Z
+DTSTAMP:20260619T125352Z
 END:VEVENT
 BEGIN:VEVENT
 UID:75a8fb46ad0c1e89@quickwork.amazon.com
@@ -29,6 +29,6 @@ DTEND:20260619T183000Z
 SUMMARY:Pre CPI-transition check-in
 ORGANIZER;CN=Tiu\, Chris:mailto:tiuchris@amazon.com
 LOCATION:See Outlook for join link
-DTSTAMP:20260619T115412Z
+DTSTAMP:20260619T125352Z
 END:VEVENT
 END:VCALENDAR

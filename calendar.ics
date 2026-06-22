@@ -1,25 +1,23 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//QuickWork//Calendar Export//EN
+PRODID:-//Quickwork//Calendar Export//EN
 METHOD:PUBLISH
 X-WR-CALNAME:Direct Invites (cjsampl)
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-UID:04039f84fce3b198@quickwork.amazon.com
+UID:04039f84fce3b198c98e4a77@quickwork.amazon.com
 DTSTART:20260625T170000Z
 DTEND:20260625T180000Z
 SUMMARY:Virtual loop interview for Stephen Prichard\, Engineering Operations Technician\, ADC InfraOps DCEO
 ORGANIZER;CN=Amazon Hire:mailto:hire-meeting@invitation.people-tech.amazon.dev
 LOCATION:See Outlook for join link
-DTSTAMP:20260622T155415Z
 END:VEVENT
 BEGIN:VEVENT
-UID:50689c8dcbc98094@quickwork.amazon.com
+UID:50689c8dcbc980948b230350@quickwork.amazon.com
 DTSTART:20260629T170000Z
 DTEND:20260629T173000Z
 SUMMARY:Debrief for Stephen Prichard\, Engineering Operations Technician\, ADC InfraOps DCEO
 ORGANIZER;CN=Amazon Hire:mailto:hire-meeting@invitation.people-tech.amazon.dev
 LOCATION:See Outlook for join link
-DTSTAMP:20260622T155415Z
 END:VEVENT
 END:VCALENDAR

@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//QuickWork//Calendar Export//EN
+PRODID:-//QuickWork//Direct Invite Calendar//EN
 METHOD:PUBLISH
 X-WR-CALNAME:Direct Invites (cjsampl)
 X-WR-TIMEZONE:America/Chicago
@@ -8,30 +8,24 @@ BEGIN:VEVENT
 UID:50689c8dcbc98094@quickwork.amazon.com
 DTSTART:20260629T170000Z
 DTEND:20260629T173000Z
-SUMMARY:Debrief for Stephen Prichard\, Engineering Operations Technician\, 
- ADC InfraOps DCEO
-ORGANIZER;CN=Amazon Hire:mailto:hire-meeting@invitation.people-tech.amazon.
- dev
+SUMMARY:Debrief for Stephen Prichard\, Engineering Operations Technician\, ADC InfraOps DCEO
+ORGANIZER;CN=Amazon Hire:mailto:hire-meeting@invitation.people-tech.amazon.dev
 LOCATION:See Outlook for join link
 END:VEVENT
 BEGIN:VEVENT
 UID:f1f00b0cc1606e0f@quickwork.amazon.com
 DTSTART:20260706T180000Z
 DTEND:20260706T190000Z
-SUMMARY:Virtual loop interview for Scott Bean\, Engineering Operations Tech
- nician\, ADC InfraOps DCEO
-ORGANIZER;CN=Amazon Hire:mailto:hire-meeting@invitation.people-tech.amazon.
- dev
+SUMMARY:Virtual loop interview for Scott Bean\, Engineering Operations Technician\, ADC InfraOps DCEO
+ORGANIZER;CN=Amazon Hire:mailto:hire-meeting@invitation.people-tech.amazon.dev
 LOCATION:See Outlook for join link
 END:VEVENT
 BEGIN:VEVENT
 UID:fa7ec8e9b3d90789@quickwork.amazon.com
 DTSTART:20260708T163000Z
 DTEND:20260708T170000Z
-SUMMARY:Debrief for Scott Bean\, Engineering Operations Technician\, ADC In
- fraOps DCEO
-ORGANIZER;CN=Amazon Hire:mailto:hire-meeting@invitation.people-tech.amazon.
- dev
+SUMMARY:Debrief for Scott Bean\, Engineering Operations Technician\, ADC InfraOps DCEO
+ORGANIZER;CN=Amazon Hire:mailto:hire-meeting@invitation.people-tech.amazon.dev
 LOCATION:See Outlook for join link
 END:VEVENT
 BEGIN:VEVENT
@@ -46,14 +40,6 @@ BEGIN:VEVENT
 UID:f35f4831afd3fae1@quickwork.amazon.com
 DTSTART:20260715T163000Z
 DTEND:20260715T170000Z
-SUMMARY:ALE - CPI - Project Sync
-ORGANIZER;CN=Lazar\, Pete:mailto:petelaz@amazon.com
-LOCATION:Loop
-END:VEVENT
-BEGIN:VEVENT
-UID:ad9af25bec679129@quickwork.amazon.com
-DTSTART:20260729T163000Z
-DTEND:20260729T170000Z
 SUMMARY:ALE - CPI - Project Sync
 ORGANIZER;CN=Lazar\, Pete:mailto:petelaz@amazon.com
 LOCATION:Loop

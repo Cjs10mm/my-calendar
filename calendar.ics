@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Quickwork//Calendar Export//EN
+PRODID:-//QuickWork//Calendar Export//EN
 METHOD:PUBLISH
 X-WR-CALNAME:Direct Invites (cjsampl)
 X-WR-TIMEZONE:America/Chicago
@@ -17,7 +17,7 @@ UID:f35f4831afd3fae1980bf210@quickwork.amazon.com
 DTSTART:20260715T163000Z
 DTEND:20260715T170000Z
 SUMMARY:ALE - CPI - Project Sync
-ORGANIZER;CN=Lazar\, Pete:mailto:petelaz@amazon.com
+ORGANIZER;CN="Lazar, Pete":mailto:petelaz@amazon.com
 LOCATION:Loop
 END:VEVENT
 BEGIN:VEVENT
@@ -25,7 +25,7 @@ UID:ad9af25bec67912964db9478@quickwork.amazon.com
 DTSTART:20260729T163000Z
 DTEND:20260729T170000Z
 SUMMARY:ALE - CPI - Project Sync
-ORGANIZER;CN=Lazar\, Pete:mailto:petelaz@amazon.com
+ORGANIZER;CN="Lazar, Pete":mailto:petelaz@amazon.com
 LOCATION:Loop
 END:VEVENT
 BEGIN:VEVENT
@@ -33,7 +33,7 @@ UID:a7cb81aea84c237c27d8eeb5@quickwork.amazon.com
 DTSTART:20260707T190000Z
 DTEND:20260707T193000Z
 SUMMARY:Pre CPI-transition check-in
-ORGANIZER;CN=Tiu\, Chris:mailto:tiuchris@amazon.com
+ORGANIZER;CN="Tiu, Chris":mailto:tiuchris@amazon.com
 LOCATION:See Outlook for join link
 END:VEVENT
 END:VCALENDAR

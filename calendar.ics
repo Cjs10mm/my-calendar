@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Quickwork//Calendar Export//EN
+PRODID:-//QuickWork//Calendar Export//EN
 METHOD:PUBLISH
 X-WR-CALNAME:Direct Invites (cjsampl)
 X-WR-TIMEZONE:America/Chicago

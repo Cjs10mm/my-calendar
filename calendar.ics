@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//QuickWork//Calendar Export//EN
+PRODID:-//Amazon Quick//Calendar Export//EN
 METHOD:PUBLISH
 X-WR-CALNAME:Direct Invites (cjsampl)
 X-WR-TIMEZONE:America/Chicago
@@ -8,7 +8,7 @@ BEGIN:VEVENT
 UID:fa7ec8e9b3d9078960083712@quickwork.amazon.com
 DTSTART:20260708T163000Z
 DTEND:20260708T170000Z
-SUMMARY:Debrief for Scott Bean\, Engineering Operations Technician\, ADC InfraOps DCEO
+SUMMARY:Debrief for Scott Bean, Engineering Operations Technician, ADC InfraOps DCEO
 ORGANIZER;CN=Amazon Hire:mailto:hire-meeting@invitation.people-tech.amazon.dev
 LOCATION:See Outlook for join link
 END:VEVENT
@@ -17,7 +17,7 @@ UID:f35f4831afd3fae1980bf210@quickwork.amazon.com
 DTSTART:20260715T163000Z
 DTEND:20260715T170000Z
 SUMMARY:ALE - CPI - Project Sync
-ORGANIZER;CN=Lazar\, Pete:mailto:petelaz@amazon.com
+ORGANIZER;CN=Lazar, Pete:mailto:petelaz@amazon.com
 LOCATION:Loop
 END:VEVENT
 BEGIN:VEVENT
@@ -25,7 +25,7 @@ UID:ad9af25bec67912964db9478@quickwork.amazon.com
 DTSTART:20260729T163000Z
 DTEND:20260729T170000Z
 SUMMARY:ALE - CPI - Project Sync
-ORGANIZER;CN=Lazar\, Pete:mailto:petelaz@amazon.com
+ORGANIZER;CN=Lazar, Pete:mailto:petelaz@amazon.com
 LOCATION:Loop
 END:VEVENT
 END:VCALENDAR

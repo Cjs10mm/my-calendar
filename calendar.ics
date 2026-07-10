@@ -5,21 +5,19 @@ METHOD:PUBLISH
 X-WR-CALNAME:Direct Invites (cjsampl)
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-UID:f35f4831afd3fae1980bf210@quickwork.amazon.com
+UID:f35f4831afd3fae1@quickwork.amazon.com
 DTSTART:20260715T163000Z
 DTEND:20260715T170000Z
 SUMMARY:ALE - CPI - Project Sync
-ORGANIZER;CN=Lazar, Pete:mailto:petelaz@amazon.com
+ORGANIZER;CN=Lazar\, Pete:mailto:petelaz@amazon.com
 LOCATION:Loop
-DESCRIPTION:See Outlook for join link
 END:VEVENT
 BEGIN:VEVENT
-UID:ad9af25bec67912964db9478@quickwork.amazon.com
+UID:ad9af25bec679129@quickwork.amazon.com
 DTSTART:20260729T163000Z
 DTEND:20260729T170000Z
 SUMMARY:ALE - CPI - Project Sync
-ORGANIZER;CN=Lazar, Pete:mailto:petelaz@amazon.com
+ORGANIZER;CN=Lazar\, Pete:mailto:petelaz@amazon.com
 LOCATION:Loop
-DESCRIPTION:See Outlook for join link
 END:VEVENT
 END:VCALENDAR

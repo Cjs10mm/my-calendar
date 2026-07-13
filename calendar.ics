@@ -5,7 +5,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Direct Invites (cjsampl)
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-UID:f35f4831afd3fae1980bf210@quickwork.amazon.com
+UID:f35f4831afd3fae1@quickwork.amazon.com
 DTSTART:20260715T163000Z
 DTEND:20260715T170000Z
 SUMMARY:ALE - CPI - Project Sync
@@ -13,7 +13,7 @@ ORGANIZER;CN=Lazar\, Pete:mailto:petelaz@amazon.com
 LOCATION:Loop
 END:VEVENT
 BEGIN:VEVENT
-UID:ad9af25bec67912964db9478@quickwork.amazon.com
+UID:ad9af25bec679129@quickwork.amazon.com
 DTSTART:20260729T163000Z
 DTEND:20260729T170000Z
 SUMMARY:ALE - CPI - Project Sync
@@ -21,7 +21,7 @@ ORGANIZER;CN=Lazar\, Pete:mailto:petelaz@amazon.com
 LOCATION:Loop
 END:VEVENT
 BEGIN:VEVENT
-UID:cbbceeaed4f1771385658a82@quickwork.amazon.com
+UID:cbbceeaed4f17713@quickwork.amazon.com
 DTSTART:20260716T150000Z
 DTEND:20260716T160000Z
 SUMMARY:CPI ADC Bi-Weekly Team Sync
@@ -29,7 +29,7 @@ ORGANIZER;CN=Tiu\, Chris:mailto:tiuchris@amazon.com
 LOCATION:See Outlook for join link
 END:VEVENT
 BEGIN:VEVENT
-UID:3ddb57126340ff812710aeb8@quickwork.amazon.com
+UID:3ddb57126340ff81@quickwork.amazon.com
 DTSTART:20260730T150000Z
 DTEND:20260730T160000Z
 SUMMARY:CPI ADC Bi-Weekly Team Sync
@@ -37,7 +37,7 @@ ORGANIZER;CN=Tiu\, Chris:mailto:tiuchris@amazon.com
 LOCATION:See Outlook for join link
 END:VEVENT
 BEGIN:VEVENT
-UID:624a7a2907ea2c55338455ca@quickwork.amazon.com
+UID:624a7a2907ea2c55@quickwork.amazon.com
 DTSTART:20260727T170000Z
 DTEND:20260727T173000Z
 SUMMARY:2026 ADC FRE - CPI Biweekly Call

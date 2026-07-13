@@ -11,7 +11,6 @@ DTEND:20260715T170000Z
 SUMMARY:ALE - CPI - Project Sync
 ORGANIZER;CN=Lazar\, Pete:mailto:petelaz@amazon.com
 LOCATION:Loop
-DTSTAMP:20260713T150518Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ad9af25bec67912964db9478@quickwork.amazon.com
@@ -20,7 +19,6 @@ DTEND:20260729T170000Z
 SUMMARY:ALE - CPI - Project Sync
 ORGANIZER;CN=Lazar\, Pete:mailto:petelaz@amazon.com
 LOCATION:Loop
-DTSTAMP:20260713T150518Z
 END:VEVENT
 BEGIN:VEVENT
 UID:cbbceeaed4f1771385658a82@quickwork.amazon.com
@@ -29,7 +27,6 @@ DTEND:20260716T160000Z
 SUMMARY:CPI ADC Bi-Weekly Team Sync
 ORGANIZER;CN=Tiu\, Chris:mailto:tiuchris@amazon.com
 LOCATION:See Outlook for join link
-DTSTAMP:20260713T150518Z
 END:VEVENT
 BEGIN:VEVENT
 UID:3ddb57126340ff812710aeb8@quickwork.amazon.com
@@ -38,7 +35,6 @@ DTEND:20260730T160000Z
 SUMMARY:CPI ADC Bi-Weekly Team Sync
 ORGANIZER;CN=Tiu\, Chris:mailto:tiuchris@amazon.com
 LOCATION:See Outlook for join link
-DTSTAMP:20260713T150518Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ea87ec74a4f4525d7538ac7c@quickwork.amazon.com
@@ -47,7 +43,6 @@ DTEND:20260713T173000Z
 SUMMARY:FW: 2026 ADC FRE - CPI Biweekly Call
 ORGANIZER;CN=Karki\, Elina:mailto:karkie@amazon.com
 LOCATION:See Outlook for join link
-DTSTAMP:20260713T150518Z
 END:VEVENT
 BEGIN:VEVENT
 UID:624a7a2907ea2c55338455ca@quickwork.amazon.com
@@ -56,6 +51,5 @@ DTEND:20260727T173000Z
 SUMMARY:2026 ADC FRE - CPI Biweekly Call
 ORGANIZER;CN=Karki\, Elina:mailto:karkie@amazon.com
 LOCATION:See Outlook for join link
-DTSTAMP:20260713T150518Z
 END:VEVENT
 END:VCALENDAR

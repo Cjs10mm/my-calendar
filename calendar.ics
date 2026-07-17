@@ -29,6 +29,14 @@ ORGANIZER;CN=Whitney\, Tim:mailto:whitnetf@amazon.com
 LOCATION:See Outlook for join link
 END:VEVENT
 BEGIN:VEVENT
+UID:4f79a9cf5ee7c264@quickwork.amazon.com
+DTSTART:20260730T170000Z
+DTEND:20260730T173000Z
+SUMMARY:CPI AMER - MCM Training and Office Hours
+ORGANIZER;CN=Nofzinger\, Matt:mailto:nofzing@amazon.com
+LOCATION:See Outlook for join link
+END:VEVENT
+BEGIN:VEVENT
 UID:50499169b3bacd8b@quickwork.amazon.com
 DTSTART:20260717T150000Z
 DTEND:20260717T160000Z

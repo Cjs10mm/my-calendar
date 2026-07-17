@@ -12,6 +12,8 @@ DTEND:20260729T170000Z
 SUMMARY:ALE - CPI - Project Sync
 ORGANIZER;CN=Lazar\, Pete:mailto:petelaz@amazon.com
 LOCATION:Loop
+DTSTAMP:20260717T161227Z
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:58ff7edc352bb808a161f8b5@quickwork.amazon.com
@@ -20,6 +22,8 @@ DTEND:20260721T183000Z
 SUMMARY:ALE/LTW Weekly Status Meeting
 ORGANIZER;CN=Whitney\, Tim:mailto:whitnetf@amazon.com
 LOCATION:See Outlook for join link
+DTSTAMP:20260717T161227Z
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a1ef7e5dd98866bf51a17732@quickwork.amazon.com
@@ -28,6 +32,8 @@ DTEND:20260728T183000Z
 SUMMARY:ALE/LTW Weekly Status Meeting
 ORGANIZER;CN=Whitney\, Tim:mailto:whitnetf@amazon.com
 LOCATION:See Outlook for join link
+DTSTAMP:20260717T161227Z
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4f79a9cf5ee7c26484ccef0c@quickwork.amazon.com
@@ -36,6 +42,8 @@ DTEND:20260730T173000Z
 SUMMARY:CPI AMER - MCM Training and Office Hours
 ORGANIZER;CN=Nofzinger\, Matt:mailto:nofzing@amazon.com
 LOCATION:See Outlook for join link
+DTSTAMP:20260717T161227Z
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:5c0fa0c3f3fa63be2dd58a04@quickwork.amazon.com
@@ -44,6 +52,8 @@ DTEND:20260724T160000Z
 SUMMARY:Manager\, ADC Regional Weekly Procore Data Quality Review
 ORGANIZER;CN=Tiu\, Chris:mailto:tiuchris@amazon.com
 LOCATION:See Outlook for join link
+DTSTAMP:20260717T161227Z
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:714072cfd33c04c780f33a27@quickwork.amazon.com
@@ -52,6 +62,8 @@ DTEND:20260731T160000Z
 SUMMARY:Manager\, ADC Regional Weekly Procore Data Quality Review
 ORGANIZER;CN=Tiu\, Chris:mailto:tiuchris@amazon.com
 LOCATION:See Outlook for join link
+DTSTAMP:20260717T161227Z
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:3ddb57126340ff812710aeb8@quickwork.amazon.com
@@ -60,6 +72,8 @@ DTEND:20260730T160000Z
 SUMMARY:CPI ADC Bi-Weekly Team Sync
 ORGANIZER;CN=Tiu\, Chris:mailto:tiuchris@amazon.com
 LOCATION:See Outlook for join link
+DTSTAMP:20260717T161227Z
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:624a7a2907ea2c55338455ca@quickwork.amazon.com
@@ -68,6 +82,8 @@ DTEND:20260727T173000Z
 SUMMARY:2026 ADC FRE - CPI Biweekly Call
 ORGANIZER;CN=Karki\, Elina:mailto:karkie@amazon.com
 LOCATION:See Outlook for join link
+DTSTAMP:20260717T161227Z
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4b0a2a30be334109dcf4e8c8@quickwork.amazon.com
@@ -76,6 +92,8 @@ DTEND:20260722T193000Z
 SUMMARY:ADC Sidecar Execution Team Connect 
 ORGANIZER;CN=Parsons\, Ryan:mailto:rqparson@amazon.com
 LOCATION:See Outlook for join link
+DTSTAMP:20260717T161227Z
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6623f762392b68041a94be27@quickwork.amazon.com
@@ -84,5 +102,7 @@ DTEND:20260729T193000Z
 SUMMARY:ADC Sidecar Execution Team Connect 
 ORGANIZER;CN=Parsons\, Ryan:mailto:rqparson@amazon.com
 LOCATION:See Outlook for join link
+DTSTAMP:20260717T161227Z
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

@@ -5,6 +5,14 @@ METHOD:PUBLISH
 X-WR-CALNAME:Direct Invites (cjsampl)
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
+UID:742cbb7ecefde653332e35c4@quickwork.amazon.com
+DTSTART:20260730T160000Z
+DTEND:20260730T170000Z
+SUMMARY:CPI - New Hire Office Hours 2026- July
+ORGANIZER;CN=Manambedu Vijayakumar\, Raja:mailto:mvraja@amazon.com
+LOCATION:See Outlook for join link
+END:VEVENT
+BEGIN:VEVENT
 UID:ad9af25bec67912964db9478@quickwork.amazon.com
 DTSTART:20260729T163000Z
 DTEND:20260729T170000Z

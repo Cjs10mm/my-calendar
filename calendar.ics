@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//QuickWork//Direct Invites//EN
+PRODID:-//Amazon Quick//Calendar Export//EN
 METHOD:PUBLISH
 X-WR-CALNAME:Direct Invites (cjsampl)
 X-WR-TIMEZONE:America/Chicago
@@ -61,7 +61,7 @@ ORGANIZER;CN=Tiu\, Chris:mailto:tiuchris@amazon.com
 LOCATION:See Outlook for join link
 END:VEVENT
 BEGIN:VEVENT
-UID:2e9e4e01bb9e8f1f05dccc81@quickwork.amazon.com
+UID:3ddb57126340ff812710aeb8@quickwork.amazon.com
 DTSTART:20260730T150000Z
 DTEND:20260730T160000Z
 SUMMARY:CPI ADC Bi-Weekly Team Sync
@@ -69,27 +69,27 @@ ORGANIZER;CN=Tiu\, Chris:mailto:tiuchris@amazon.com
 LOCATION:See Outlook for join link
 END:VEVENT
 BEGIN:VEVENT
-UID:2506e2f3f6b06b8a6b2d8ae2@quickwork.amazon.com
+UID:624a7a2907ea2c55338455ca@quickwork.amazon.com
 DTSTART:20260727T170000Z
-DTEND:20260727T180000Z
+DTEND:20260727T173000Z
 SUMMARY:2026 ADC FRE - CPI Biweekly Call
-ORGANIZER;CN=Karki\, Elina:mailto:ekarki@amazon.com
+ORGANIZER;CN=Karki\, Elina:mailto:karkie@amazon.com
 LOCATION:See Outlook for join link
 END:VEVENT
 BEGIN:VEVENT
-UID:e77f5e61b8a7e8cdf1f6f3e5@quickwork.amazon.com
+UID:4b0a2a30be334109dcf4e8c8@quickwork.amazon.com
 DTSTART:20260722T183000Z
-DTEND:20260722T190000Z
+DTEND:20260722T193000Z
 SUMMARY:ADC Sidecar Execution Team Connect 
-ORGANIZER;CN=Parsons\, Ryan:mailto:parsryan@amazon.com
+ORGANIZER;CN=Parsons\, Ryan:mailto:rqparson@amazon.com
 LOCATION:See Outlook for join link
 END:VEVENT
 BEGIN:VEVENT
-UID:cfa89b45e3e2e3e8bafc7a46@quickwork.amazon.com
+UID:6623f762392b68041a94be27@quickwork.amazon.com
 DTSTART:20260729T183000Z
-DTEND:20260729T190000Z
+DTEND:20260729T193000Z
 SUMMARY:ADC Sidecar Execution Team Connect 
-ORGANIZER;CN=Parsons\, Ryan:mailto:parsryan@amazon.com
+ORGANIZER;CN=Parsons\, Ryan:mailto:rqparson@amazon.com
 LOCATION:See Outlook for join link
 END:VEVENT
 END:VCALENDAR

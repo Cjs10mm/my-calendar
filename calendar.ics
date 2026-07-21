@@ -4,6 +4,7 @@ PRODID:-//QuickWork//Calendar Export//EN
 METHOD:PUBLISH
 X-WR-CALNAME:Direct Invites (cjsampl)
 X-WR-TIMEZONE:America/Chicago
+CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:29ec472cb863dbea36fc160c@quickwork.amazon.com
 DTSTART:20260723T163000Z

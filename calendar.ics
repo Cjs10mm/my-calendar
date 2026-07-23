@@ -80,7 +80,7 @@ BEGIN:VEVENT
 UID:6623f762392b6804@quickwork.amazon.com
 DTSTART:20260729T183000Z
 DTEND:20260729T193000Z
-SUMMARY:ADC Sidecar Execution Team Connect 
+SUMMARY:ADC Sidecar Execution Team Connect
 ORGANIZER;CN=Parsons\, Ryan:mailto:rqparson@amazon.com
 LOCATION:See Outlook for join link
 END:VEVENT

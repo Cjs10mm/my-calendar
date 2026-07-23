@@ -5,7 +5,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Direct Invites (cjsampl)
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-UID:29ec472cb863dbea@quickwork.amazon.com
+UID:840b5d3308052c1344d90c94e025b020@quickwork.amazon.com
 DTSTART:20260723T163000Z
 DTEND:20260723T170000Z
 SUMMARY:ALE Project Bloodhound Remote support 
@@ -13,7 +13,7 @@ ORGANIZER;CN=Railing\, Dylan:mailto:drailing@amazon.com
 LOCATION:See Outlook for join link
 END:VEVENT
 BEGIN:VEVENT
-UID:742cbb7ecefde653@quickwork.amazon.com
+UID:8286aad8dc859cf56d6c67ab0723b03b@quickwork.amazon.com
 DTSTART:20260730T160000Z
 DTEND:20260730T170000Z
 SUMMARY:CPI - New Hire Office Hours 2026- July
@@ -21,7 +21,7 @@ ORGANIZER;CN=Manambedu Vijayakumar\, Raja:mailto:mvraja@amazon.com
 LOCATION:See Outlook for join link
 END:VEVENT
 BEGIN:VEVENT
-UID:ad9af25bec679129@quickwork.amazon.com
+UID:791de1cb0bdd7798e9b0fc75f202d69a@quickwork.amazon.com
 DTSTART:20260729T163000Z
 DTEND:20260729T170000Z
 SUMMARY:ALE - CPI - Project Sync
@@ -29,7 +29,7 @@ ORGANIZER;CN=Lazar\, Pete:mailto:petelaz@amazon.com
 LOCATION:Loop
 END:VEVENT
 BEGIN:VEVENT
-UID:a1ef7e5dd98866bf@quickwork.amazon.com
+UID:4727f13aad23730720c0910649627aa5@quickwork.amazon.com
 DTSTART:20260728T180000Z
 DTEND:20260728T183000Z
 SUMMARY:ALE/LTW Weekly Status Meeting
@@ -37,7 +37,7 @@ ORGANIZER;CN=Whitney\, Tim:mailto:whitnetf@amazon.com
 LOCATION:See Outlook for join link
 END:VEVENT
 BEGIN:VEVENT
-UID:4f79a9cf5ee7c264@quickwork.amazon.com
+UID:ac2e923388b8a20ec3fca3b7a851c02f@quickwork.amazon.com
 DTSTART:20260730T170000Z
 DTEND:20260730T173000Z
 SUMMARY:CPI AMER - MCM Training and Office Hours
@@ -45,7 +45,7 @@ ORGANIZER;CN=Nofzinger\, Matt:mailto:nofzing@amazon.com
 LOCATION:See Outlook for join link
 END:VEVENT
 BEGIN:VEVENT
-UID:5c0fa0c3f3fa63be@quickwork.amazon.com
+UID:4dab8b5520d2026a44788e577eefab91@quickwork.amazon.com
 DTSTART:20260724T150000Z
 DTEND:20260724T160000Z
 SUMMARY:Manager\, ADC Regional Weekly Procore Data Quality Review
@@ -53,7 +53,7 @@ ORGANIZER;CN=Tiu\, Chris:mailto:tiuchris@amazon.com
 LOCATION:See Outlook for join link
 END:VEVENT
 BEGIN:VEVENT
-UID:714072cfd33c04c7@quickwork.amazon.com
+UID:26ec982349083abf9c6a39a0d4f25a96@quickwork.amazon.com
 DTSTART:20260731T150000Z
 DTEND:20260731T160000Z
 SUMMARY:Manager\, ADC Regional Weekly Procore Data Quality Review
@@ -61,7 +61,7 @@ ORGANIZER;CN=Tiu\, Chris:mailto:tiuchris@amazon.com
 LOCATION:See Outlook for join link
 END:VEVENT
 BEGIN:VEVENT
-UID:3ddb57126340ff81@quickwork.amazon.com
+UID:6642cb48fb4d9c9ab5ee65f0a95815e2@quickwork.amazon.com
 DTSTART:20260730T150000Z
 DTEND:20260730T160000Z
 SUMMARY:CPI ADC Bi-Weekly Team Sync
@@ -69,7 +69,7 @@ ORGANIZER;CN=Tiu\, Chris:mailto:tiuchris@amazon.com
 LOCATION:See Outlook for join link
 END:VEVENT
 BEGIN:VEVENT
-UID:624a7a2907ea2c55@quickwork.amazon.com
+UID:ebbd2ba1afb9caf716319e6f8b8156fd@quickwork.amazon.com
 DTSTART:20260727T170000Z
 DTEND:20260727T173000Z
 SUMMARY:2026 ADC FRE - CPI Biweekly Call
@@ -77,7 +77,7 @@ ORGANIZER;CN=Karki\, Elina:mailto:karkie@amazon.com
 LOCATION:See Outlook for join link
 END:VEVENT
 BEGIN:VEVENT
-UID:16dc226fa45fc238@quickwork.amazon.com
+UID:77a3f13221a85139486e167ce1552f5f@quickwork.amazon.com
 DTSTART:20260728T160000Z
 DTEND:20260728T163000Z
 SUMMARY:ADC Bar Raiser Weekly Call
@@ -85,7 +85,7 @@ ORGANIZER;CN=Thrash\, Jake:mailto:thrashja@amazon.com
 LOCATION:See Outlook for join link
 END:VEVENT
 BEGIN:VEVENT
-UID:6623f762392b6804@quickwork.amazon.com
+UID:d5248927c50196feeae1b4e68848514e@quickwork.amazon.com
 DTSTART:20260729T183000Z
 DTEND:20260729T193000Z
 SUMMARY:ADC Sidecar Execution Team Connect 
@@ -93,7 +93,7 @@ ORGANIZER;CN=Parsons\, Ryan:mailto:rqparson@amazon.com
 LOCATION:See Outlook for join link
 END:VEVENT
 BEGIN:VEVENT
-UID:9df1dd7133a63981@quickwork.amazon.com
+UID:0d51b05c8d724edeed09f96b760b1e75@quickwork.amazon.com
 DTSTART:20260724T160000Z
 DTEND:20260724T163000Z
 SUMMARY:Chris/Casey Weekly 1:1 check-in
@@ -101,7 +101,7 @@ ORGANIZER;CN=Tiu\, Chris:mailto:tiuchris@amazon.com
 LOCATION:See Outlook for join link
 END:VEVENT
 BEGIN:VEVENT
-UID:9393b7ab034afbba@quickwork.amazon.com
+UID:7edb96d8c14e47b99b11f637cfb482a7@quickwork.amazon.com
 DTSTART:20260731T160000Z
 DTEND:20260731T163000Z
 SUMMARY:Chris/Casey Weekly 1:1 check-in

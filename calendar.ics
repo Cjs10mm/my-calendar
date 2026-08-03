@@ -96,7 +96,7 @@ BEGIN:VEVENT
 UID:68fc324c48463917@quickwork.amazon.com
 DTSTART:20260814T150000Z
 DTEND:20260814T160000Z
-SUMMARY:Manager\, ADC Regional Weekly Procore Data Quality Review
+SUMMARY:Canceled: Manager\, ADC Regional Weekly Procore Data Quality Review
 ORGANIZER;CN=Tiu\, Chris:mailto:tiuchris@amazon.com
 LOCATION:See Outlook for join link
 END:VEVENT
@@ -248,7 +248,7 @@ BEGIN:VEVENT
 UID:8d5b5d640b0eec82@quickwork.amazon.com
 DTSTART:20260814T140000Z
 DTEND:20260814T150000Z
-SUMMARY:Check Casey Enhanced Security Bonus Status for Q3
+SUMMARY:Canceled: Check Casey Enhanced Security Bonus Status for Q3
 ORGANIZER;CN=Tiu\, Chris:mailto:tiuchris@amazon.com
 END:VEVENT
 BEGIN:VEVENT

@@ -1,331 +1,295 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//QuickWork//Calendar Export//EN
+PRODID:-//Amazon Quick//Calendar Export//EN
 METHOD:PUBLISH
 X-WR-CALNAME:Direct Invites (cjsampl)
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-UID:bb139af7404d90bc58cba14c@quickwork.amazon.com
+UID:bb139af7404d90bc@quickwork.amazon.com
 DTSTART:20260806T210000Z
 DTEND:20260806T220000Z
 SUMMARY:Virtual loop interview for Fuad Odeh\, CPI Data Center Project Manager\, US-West CPI
 ORGANIZER;CN=Amazon Hire:mailto:hire-meeting@invitation.people-tech.amazon.dev
 LOCATION:See Outlook for join link
-DTSTAMP:20260804T133513Z
 END:VEVENT
 BEGIN:VEVENT
-UID:692e4a7ed1d46679ca05ce69@quickwork.amazon.com
+UID:692e4a7ed1d46679@quickwork.amazon.com
 DTSTART:20260810T194500Z
 DTEND:20260810T201500Z
 SUMMARY:Debrief for Fuad Odeh\, CPI Data Center Project Manager\, US-West CPI
 ORGANIZER;CN=Amazon Hire:mailto:hire-meeting@invitation.people-tech.amazon.dev
 LOCATION:See Outlook for join link
-DTSTAMP:20260804T133513Z
 END:VEVENT
 BEGIN:VEVENT
-UID:aafb415470d90572a968edc2@quickwork.amazon.com
+UID:aafb415470d90572@quickwork.amazon.com
 DTSTART:20260814T140000Z
 DTEND:20260814T180000Z
 SUMMARY:US East All Hands Reservation
 ORGANIZER;CN=Perhala\, Julie:mailto:jperhala@amazon.com
 LOCATION:IAD28 02.403 and 02.404
-DTSTAMP:20260804T133513Z
 END:VEVENT
 BEGIN:VEVENT
-UID:6e12e5580e79e09a90d0195b@quickwork.amazon.com
+UID:6e12e5580e79e09a@quickwork.amazon.com
 DTSTART:20260812T163000Z
 DTEND:20260812T170000Z
 SUMMARY:ALE - CPI - Project Sync
 ORGANIZER;CN=Lazar\, Pete:mailto:petelaz@amazon.com
 LOCATION:Loop
-DTSTAMP:20260804T133513Z
 END:VEVENT
 BEGIN:VEVENT
-UID:77eea9ba4e4c7fe0a7cd29a2@quickwork.amazon.com
+UID:77eea9ba4e4c7fe0@quickwork.amazon.com
 DTSTART:20260826T163000Z
 DTEND:20260826T170000Z
 SUMMARY:ALE - CPI - Project Sync
 ORGANIZER;CN=Lazar\, Pete:mailto:petelaz@amazon.com
 LOCATION:Loop
-DTSTAMP:20260804T133513Z
 END:VEVENT
 BEGIN:VEVENT
-UID:cd6f576473e48d18833d8200@quickwork.amazon.com
+UID:cd6f576473e48d18@quickwork.amazon.com
 DTSTART:20260819T150000Z
 DTEND:20260819T160000Z
 SUMMARY:CPI Initiative Review
-ORGANIZER;CN=Fourny\, John:mailto:fournyj@amazon.com
+ORGANIZER;CN=Kuemmritz\, Jacqueline:mailto:fournyj@amazon.com
 LOCATION:See Outlook for join link
-DTSTAMP:20260804T133513Z
 END:VEVENT
 BEGIN:VEVENT
-UID:23e102e23ef5b84e24e8e49d@quickwork.amazon.com
+UID:c15409ea7056b937@quickwork.amazon.com
 DTSTART:20260804T163000Z
 DTEND:20260804T170000Z
 SUMMARY:Weekly ALE CEP Projects Stakeholder- Confirmation Meeting
-ORGANIZER;CN=Markiars\, Jan:mailto:markiars@amazon.com
+ORGANIZER;CN=Staten\, Markiara:mailto:markiars@amazon.com
 LOCATION:See Outlook for join link
-DTSTAMP:20260804T133513Z
 END:VEVENT
 BEGIN:VEVENT
-UID:d1adff1f3fa5b1e58e5b1ec1@quickwork.amazon.com
+UID:9ec75b9b2e90eb90@quickwork.amazon.com
 DTSTART:20260811T163000Z
 DTEND:20260811T170000Z
 SUMMARY:Weekly ALE CEP Projects Stakeholder- Confirmation Meeting
-ORGANIZER;CN=Markiars\, Jan:mailto:markiars@amazon.com
+ORGANIZER;CN=Staten\, Markiara:mailto:markiars@amazon.com
 LOCATION:See Outlook for join link
-DTSTAMP:20260804T133513Z
 END:VEVENT
 BEGIN:VEVENT
-UID:f43a95dd7e42e06f0f8e109c@quickwork.amazon.com
+UID:d86794185c75e913@quickwork.amazon.com
 DTSTART:20260818T163000Z
 DTEND:20260818T170000Z
 SUMMARY:Weekly ALE CEP Projects Stakeholder- Confirmation Meeting
-ORGANIZER;CN=Markiars\, Jan:mailto:markiars@amazon.com
+ORGANIZER;CN=Staten\, Markiara:mailto:markiars@amazon.com
 LOCATION:See Outlook for join link
-DTSTAMP:20260804T133513Z
 END:VEVENT
 BEGIN:VEVENT
-UID:bdd9c94e7f45811ac16f9bc3@quickwork.amazon.com
+UID:7f3ea97faa80bf70@quickwork.amazon.com
 DTSTART:20260825T163000Z
 DTEND:20260825T170000Z
 SUMMARY:Weekly ALE CEP Projects Stakeholder- Confirmation Meeting
-ORGANIZER;CN=Markiars\, Jan:mailto:markiars@amazon.com
+ORGANIZER;CN=Staten\, Markiara:mailto:markiars@amazon.com
 LOCATION:See Outlook for join link
-DTSTAMP:20260804T133513Z
 END:VEVENT
 BEGIN:VEVENT
-UID:8a4c6e9e8bf34a6826f36f99@quickwork.amazon.com
+UID:4f486d77bfa2de08@quickwork.amazon.com
 DTSTART:20260804T180000Z
 DTEND:20260804T183000Z
 SUMMARY:ALE/LTW Weekly Status Meeting
-ORGANIZER;CN=Whitney\, Todd:mailto:whitnetf@amazon.com
+ORGANIZER;CN=Whitney\, Tim:mailto:whitnetf@amazon.com
 LOCATION:See Outlook for join link
-DTSTAMP:20260804T133513Z
 END:VEVENT
 BEGIN:VEVENT
-UID:f74f4dd68359b67e62f9f3a3@quickwork.amazon.com
+UID:0293f90a1a1432c1@quickwork.amazon.com
 DTSTART:20260811T180000Z
 DTEND:20260811T183000Z
 SUMMARY:ALE/LTW Weekly Status Meeting
-ORGANIZER;CN=Whitney\, Todd:mailto:whitnetf@amazon.com
+ORGANIZER;CN=Whitney\, Tim:mailto:whitnetf@amazon.com
 LOCATION:See Outlook for join link
-DTSTAMP:20260804T133513Z
 END:VEVENT
 BEGIN:VEVENT
-UID:ac5d42e2e7d4acf12e4c59e3@quickwork.amazon.com
+UID:c6a3f9c8a615792e@quickwork.amazon.com
 DTSTART:20260818T180000Z
 DTEND:20260818T183000Z
 SUMMARY:ALE/LTW Weekly Status Meeting
-ORGANIZER;CN=Whitney\, Todd:mailto:whitnetf@amazon.com
+ORGANIZER;CN=Whitney\, Tim:mailto:whitnetf@amazon.com
 LOCATION:See Outlook for join link
-DTSTAMP:20260804T133513Z
 END:VEVENT
 BEGIN:VEVENT
-UID:b4fda4a12f5e51f19e12f6e8@quickwork.amazon.com
+UID:31801a397d770cad@quickwork.amazon.com
 DTSTART:20260825T180000Z
 DTEND:20260825T183000Z
 SUMMARY:ALE/LTW Weekly Status Meeting
-ORGANIZER;CN=Whitney\, Todd:mailto:whitnetf@amazon.com
+ORGANIZER;CN=Whitney\, Tim:mailto:whitnetf@amazon.com
 LOCATION:See Outlook for join link
-DTSTAMP:20260804T133513Z
 END:VEVENT
 BEGIN:VEVENT
-UID:b5a5a02b6e7c67d6d40e4dc8@quickwork.amazon.com
+UID:b42c235173d4bb67@quickwork.amazon.com
 DTSTART:20260813T170000Z
-DTEND:20260813T180000Z
+DTEND:20260813T173000Z
 SUMMARY:CPI AMER - MCM Training and Office Hours
 ORGANIZER;CN=Nofzinger\, Matt:mailto:nofzing@amazon.com
 LOCATION:See Outlook for join link
-DTSTAMP:20260804T133513Z
 END:VEVENT
 BEGIN:VEVENT
-UID:fc0e9d51eafe15c44e965ba7@quickwork.amazon.com
+UID:b27f5b2bcd2ef6ef@quickwork.amazon.com
 DTSTART:20260827T170000Z
-DTEND:20260827T180000Z
+DTEND:20260827T173000Z
 SUMMARY:CPI AMER - MCM Training and Office Hours
 ORGANIZER;CN=Nofzinger\, Matt:mailto:nofzing@amazon.com
 LOCATION:See Outlook for join link
-DTSTAMP:20260804T133513Z
 END:VEVENT
 BEGIN:VEVENT
-UID:f6323bdf3d549e8e6e1f3e1d@quickwork.amazon.com
+UID:bab419555978e4be@quickwork.amazon.com
 DTSTART:20260807T150000Z
 DTEND:20260807T160000Z
 SUMMARY:Manager\, ADC Regional Weekly Procore Data Quality Review
 ORGANIZER;CN=Tiu\, Chris:mailto:tiuchris@amazon.com
 LOCATION:See Outlook for join link
-DTSTAMP:20260804T133513Z
 END:VEVENT
 BEGIN:VEVENT
-UID:e2f462d69e444fd1f9ce49a7@quickwork.amazon.com
+UID:fc5f64a9e45aa78b@quickwork.amazon.com
 DTSTART:20260821T150000Z
 DTEND:20260821T160000Z
 SUMMARY:Manager\, ADC Regional Weekly Procore Data Quality Review
 ORGANIZER;CN=Tiu\, Chris:mailto:tiuchris@amazon.com
 LOCATION:See Outlook for join link
-DTSTAMP:20260804T133513Z
 END:VEVENT
 BEGIN:VEVENT
-UID:3c6e69e6f5c20e8e3b497dd4@quickwork.amazon.com
+UID:7b7f2e2c033866ac@quickwork.amazon.com
 DTSTART:20260828T150000Z
 DTEND:20260828T160000Z
 SUMMARY:Manager\, ADC Regional Weekly Procore Data Quality Review
 ORGANIZER;CN=Tiu\, Chris:mailto:tiuchris@amazon.com
 LOCATION:See Outlook for join link
-DTSTAMP:20260804T133513Z
 END:VEVENT
 BEGIN:VEVENT
-UID:24e5e98f10afe3a2d6aea52b@quickwork.amazon.com
+UID:dec03f051a3b84e8@quickwork.amazon.com
 DTSTART:20260813T150000Z
 DTEND:20260813T160000Z
 SUMMARY:CPI ADC Bi-Weekly Team Sync
 ORGANIZER;CN=Tiu\, Chris:mailto:tiuchris@amazon.com
 LOCATION:See Outlook for join link
-DTSTAMP:20260804T133513Z
 END:VEVENT
 BEGIN:VEVENT
-UID:36eb3c5e6b79b09da0a0b6dc@quickwork.amazon.com
+UID:8d144df280505896@quickwork.amazon.com
 DTSTART:20260827T150000Z
 DTEND:20260827T160000Z
 SUMMARY:CPI ADC Bi-Weekly Team Sync
 ORGANIZER;CN=Tiu\, Chris:mailto:tiuchris@amazon.com
 LOCATION:See Outlook for join link
-DTSTAMP:20260804T133513Z
 END:VEVENT
 BEGIN:VEVENT
-UID:31c3cb44f36b08e6fd68b965@quickwork.amazon.com
+UID:5bbda9141b95abfd@quickwork.amazon.com
 DTSTART:20260810T170000Z
-DTEND:20260810T180000Z
+DTEND:20260810T173000Z
 SUMMARY:2026 ADC FRE - CPI Biweekly Call
-ORGANIZER;CN=Karkie\, Elaine:mailto:karkie@amazon.com
+ORGANIZER;CN=Karki\, Elina:mailto:karkie@amazon.com
 LOCATION:See Outlook for join link
-DTSTAMP:20260804T133513Z
 END:VEVENT
 BEGIN:VEVENT
-UID:82b56e6e6a0cd1301b47eeae@quickwork.amazon.com
+UID:ca22039842a7f17e@quickwork.amazon.com
 DTSTART:20260824T170000Z
-DTEND:20260824T180000Z
+DTEND:20260824T173000Z
 SUMMARY:2026 ADC FRE - CPI Biweekly Call
-ORGANIZER;CN=Karkie\, Elaine:mailto:karkie@amazon.com
+ORGANIZER;CN=Karki\, Elina:mailto:karkie@amazon.com
 LOCATION:See Outlook for join link
-DTSTAMP:20260804T133513Z
 END:VEVENT
 BEGIN:VEVENT
-UID:6b5e3e97e9b7f2f9f1e2c2f3@quickwork.amazon.com
+UID:afbeb99d816b86bb@quickwork.amazon.com
 DTSTART:20260804T160000Z
 DTEND:20260804T163000Z
 SUMMARY:ADC Bar Raiser Weekly Call
-ORGANIZER;CN=Thrash\, Jesse:mailto:thrashja@amazon.com
+ORGANIZER;CN=Thrash\, Jake:mailto:thrashja@amazon.com
 LOCATION:See Outlook for join link
-DTSTAMP:20260804T133513Z
 END:VEVENT
 BEGIN:VEVENT
-UID:f3e4a5b6c7d8e9f0a1b2c3d4@quickwork.amazon.com
+UID:17f44ab7d7499887@quickwork.amazon.com
 DTSTART:20260811T160000Z
 DTEND:20260811T163000Z
 SUMMARY:ADC Bar Raiser Weekly Call
-ORGANIZER;CN=Thrash\, Jesse:mailto:thrashja@amazon.com
+ORGANIZER;CN=Thrash\, Jake:mailto:thrashja@amazon.com
 LOCATION:See Outlook for join link
-DTSTAMP:20260804T133513Z
 END:VEVENT
 BEGIN:VEVENT
-UID:a1b2c3d4e5f6a7b8c9d0e1f2@quickwork.amazon.com
+UID:8e660aee97391f43@quickwork.amazon.com
 DTSTART:20260818T160000Z
 DTEND:20260818T163000Z
 SUMMARY:ADC Bar Raiser Weekly Call
-ORGANIZER;CN=Thrash\, Jesse:mailto:thrashja@amazon.com
+ORGANIZER;CN=Thrash\, Jake:mailto:thrashja@amazon.com
 LOCATION:See Outlook for join link
-DTSTAMP:20260804T133513Z
 END:VEVENT
 BEGIN:VEVENT
-UID:b2c3d4e5f6a7b8c9d0e1f2a3@quickwork.amazon.com
+UID:fc6385bd4c8692dc@quickwork.amazon.com
 DTSTART:20260825T160000Z
 DTEND:20260825T163000Z
 SUMMARY:ADC Bar Raiser Weekly Call
-ORGANIZER;CN=Thrash\, Jesse:mailto:thrashja@amazon.com
+ORGANIZER;CN=Thrash\, Jake:mailto:thrashja@amazon.com
 LOCATION:See Outlook for join link
-DTSTAMP:20260804T133513Z
 END:VEVENT
 BEGIN:VEVENT
-UID:c3d4e5f6a7b8c9d0e1f2a3b4@quickwork.amazon.com
+UID:b5fcab593a7e34eb@quickwork.amazon.com
 DTSTART:20260805T183000Z
 DTEND:20260805T193000Z
 SUMMARY:ADC Sidecar Execution Team Connect 
 ORGANIZER;CN=Parsons\, Ryan:mailto:rqparson@amazon.com
 LOCATION:See Outlook for join link
-DTSTAMP:20260804T133513Z
 END:VEVENT
 BEGIN:VEVENT
-UID:d4e5f6a7b8c9d0e1f2a3b4c5@quickwork.amazon.com
+UID:4f57a4d85d13a38e@quickwork.amazon.com
 DTSTART:20260812T183000Z
 DTEND:20260812T193000Z
 SUMMARY:ADC Sidecar Execution Team Connect 
 ORGANIZER;CN=Parsons\, Ryan:mailto:rqparson@amazon.com
 LOCATION:See Outlook for join link
-DTSTAMP:20260804T133513Z
 END:VEVENT
 BEGIN:VEVENT
-UID:e5f6a7b8c9d0e1f2a3b4c5d6@quickwork.amazon.com
+UID:f969030728c4a07d@quickwork.amazon.com
 DTSTART:20260819T183000Z
 DTEND:20260819T193000Z
 SUMMARY:ADC Sidecar Execution Team Connect 
 ORGANIZER;CN=Parsons\, Ryan:mailto:rqparson@amazon.com
 LOCATION:See Outlook for join link
-DTSTAMP:20260804T133513Z
 END:VEVENT
 BEGIN:VEVENT
-UID:f6a7b8c9d0e1f2a3b4c5d6e7@quickwork.amazon.com
+UID:b31c802d2ed82407@quickwork.amazon.com
 DTSTART:20260826T183000Z
 DTEND:20260826T193000Z
 SUMMARY:ADC Sidecar Execution Team Connect 
 ORGANIZER;CN=Parsons\, Ryan:mailto:rqparson@amazon.com
 LOCATION:See Outlook for join link
-DTSTAMP:20260804T133513Z
 END:VEVENT
 BEGIN:VEVENT
-UID:a7b8c9d0e1f2a3b4c5d6e7f8@quickwork.amazon.com
+UID:0c3e25838f79883b@quickwork.amazon.com
 DTSTART:20260807T160000Z
 DTEND:20260807T163000Z
 SUMMARY:Chris/Casey Weekly 1:1 check-in
 ORGANIZER;CN=Tiu\, Chris:mailto:tiuchris@amazon.com
 LOCATION:See Outlook for join link
-DTSTAMP:20260804T133513Z
 END:VEVENT
 BEGIN:VEVENT
-UID:b8c9d0e1f2a3b4c5d6e7f8a9@quickwork.amazon.com
+UID:03df09b122e5bbdf@quickwork.amazon.com
 DTSTART:20260814T160000Z
 DTEND:20260814T163000Z
 SUMMARY:Chris/Casey Weekly 1:1 check-in
 ORGANIZER;CN=Tiu\, Chris:mailto:tiuchris@amazon.com
 LOCATION:See Outlook for join link
-DTSTAMP:20260804T133513Z
 END:VEVENT
 BEGIN:VEVENT
-UID:c9d0e1f2a3b4c5d6e7f8a9b0@quickwork.amazon.com
+UID:1ca506badea9032d@quickwork.amazon.com
 DTSTART:20260821T160000Z
 DTEND:20260821T163000Z
 SUMMARY:Chris/Casey Weekly 1:1 check-in
 ORGANIZER;CN=Tiu\, Chris:mailto:tiuchris@amazon.com
 LOCATION:See Outlook for join link
-DTSTAMP:20260804T133513Z
 END:VEVENT
 BEGIN:VEVENT
-UID:d0e1f2a3b4c5d6e7f8a9b0c1@quickwork.amazon.com
+UID:085b75967037bf60@quickwork.amazon.com
 DTSTART:20260828T160000Z
 DTEND:20260828T163000Z
 SUMMARY:Chris/Casey Weekly 1:1 check-in
 ORGANIZER;CN=Tiu\, Chris:mailto:tiuchris@amazon.com
 LOCATION:See Outlook for join link
-DTSTAMP:20260804T133513Z
 END:VEVENT
 BEGIN:VEVENT
-UID:e1f2a3b4c5d6e7f8a9b0c1d2@quickwork.amazon.com
+UID:cab9d697cd094b17@quickwork.amazon.com
 DTSTART:20260828T140000Z
 DTEND:20260828T150000Z
 SUMMARY:Office Hour Procore & AI
-ORGANIZER;CN=Fourny\, John:mailto:fournyj@amazon.com
+ORGANIZER;CN=Kuemmritz\, Jacqueline:mailto:fournyj@amazon.com
 LOCATION:See Outlook for join link
-DTSTAMP:20260804T133513Z
 END:VEVENT
 END:VCALENDAR

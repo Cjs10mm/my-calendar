@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//QuickWork//Calendar Export//EN
+PRODID:-//Amazon Quick//Calendar Export//EN
 METHOD:PUBLISH
 X-WR-CALNAME:Direct Invites (cjsampl)
 X-WR-TIMEZONE:America/Chicago
@@ -16,20 +16,16 @@ BEGIN:VEVENT
 UID:bb139af7404d90bc58cba14c@quickwork.amazon.com
 DTSTART:20260806T210000Z
 DTEND:20260806T220000Z
-SUMMARY:Virtual loop interview for Fuad Odeh\, CPI Data Center Project Mana
- ger\, US-West CPI
-ORGANIZER;CN=Amazon Hire:mailto:hire-meeting@invitation.people-tech.amazon.
- dev
+SUMMARY:Virtual loop interview for Fuad Odeh\, CPI Data Center Project Manager\, US-West CPI
+ORGANIZER;CN=Amazon Hire:mailto:hire-meeting@invitation.people-tech.amazon.dev
 LOCATION:See Outlook for join link
 END:VEVENT
 BEGIN:VEVENT
 UID:692e4a7ed1d46679ca05ce69@quickwork.amazon.com
 DTSTART:20260810T194500Z
 DTEND:20260810T201500Z
-SUMMARY:Debrief for Fuad Odeh\, CPI Data Center Project Manager\, US-West C
- PI
-ORGANIZER;CN=Amazon Hire:mailto:hire-meeting@invitation.people-tech.amazon.
- dev
+SUMMARY:Debrief for Fuad Odeh\, CPI Data Center Project Manager\, US-West CPI
+ORGANIZER;CN=Amazon Hire:mailto:hire-meeting@invitation.people-tech.amazon.dev
 LOCATION:See Outlook for join link
 END:VEVENT
 BEGIN:VEVENT
@@ -133,6 +129,14 @@ UID:bab419555978e4be0a01bbfd@quickwork.amazon.com
 DTSTART:20260807T150000Z
 DTEND:20260807T160000Z
 SUMMARY:Manager\, ADC Regional Weekly Procore Data Quality Review
+ORGANIZER;CN=Tiu\, Chris:mailto:tiuchris@amazon.com
+LOCATION:See Outlook for join link
+END:VEVENT
+BEGIN:VEVENT
+UID:68fc324c484639172eb6e79c@quickwork.amazon.com
+DTSTART:20260814T150000Z
+DTEND:20260814T160000Z
+SUMMARY:Canceled: Manager\, ADC Regional Weekly Procore Data Quality Review
 ORGANIZER;CN=Tiu\, Chris:mailto:tiuchris@amazon.com
 LOCATION:See Outlook for join link
 END:VEVENT
@@ -271,6 +275,13 @@ DTEND:20260828T163000Z
 SUMMARY:Chris/Casey Weekly 1:1 check-in
 ORGANIZER;CN=Tiu\, Chris:mailto:tiuchris@amazon.com
 LOCATION:See Outlook for join link
+END:VEVENT
+BEGIN:VEVENT
+UID:8d5b5d640b0eec82b399346b@quickwork.amazon.com
+DTSTART:20260814T140000Z
+DTEND:20260814T150000Z
+SUMMARY:Canceled: Check Casey Enhanced Security Bonus Status for Q3
+ORGANIZER;CN=Tiu\, Chris:mailto:tiuchris@amazon.com
 END:VEVENT
 BEGIN:VEVENT
 UID:cab9d697cd094b171f763fa4@quickwork.amazon.com
